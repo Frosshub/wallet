@@ -1,5 +1,5 @@
 name: Comment on Issues
-on: push
+on: 
   issues:
     types:
       - opened
