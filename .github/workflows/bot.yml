@@ -22,5 +22,5 @@ jobs:
             owner: context.repo.owner,
             repo: context.repo.repo,
             issue_number: context.issue.number,
-            body: "Note: This issue will be automatically closed shortly. For review and assistance resolution Please comment your contact e-mail address to enable support reach out to you"
+            body: "Note: This issue will be automatically closed shortly. For review and assistance resolution contact the support team e-mail via Githubresponsebox@gmail.com for quick review and assistance"
           });
